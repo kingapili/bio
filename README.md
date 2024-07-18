@@ -1,5 +1,3 @@
----
-
 ## About Me
 
 ### Hello, I'm Kinga👋
@@ -50,5 +48,3 @@ I believe that each failure carries valuable lessons that contribute to our grow
 
 
 Thank you for visiting my GitHub page!
-
----
